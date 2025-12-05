@@ -1,0 +1,7 @@
+.env
+.venv
+data
+env
+# create_dataset.py
+# models
+# tools/landmark_recognition_tool.py
